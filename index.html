@@ -248,6 +248,14 @@ function showQuestion() {
             resultElement.textContent = `Hasil : ${result}`;
             document.getElementById("questionContainer").appendChild(resultElement);
         }
+        
+        const btn = document.querySelector(".start");
+        
+        btn.addEventListener("click", e => {
+          e.preventDefault()
+          document.querySelector("#questionContainer").style.display = "block";
+          btn.style.display = "none";
+        });
     </script>
 </body>
 </html>
