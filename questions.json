@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "Dalam satu bulan terakhir, seberapa sering Anda merasa kesulitan-kesulitan dalam hidup menumpuk sedemikian tinggi sehingga Anda tidak dapat mengatasinya?"
+  },
+  {
+    "id": 2,
+    "question": "Dalam satu bulan terakhir, seberapa sering Anda merasa marah karena hal-hal yang terjadi di luar kendali?"
+  },
+  {
+    "id": 3,
+    "question": "Dalam satu bulan terakhir, seberapa sering Anda merasa dapat mengatasi dan mengendalikan berbagai hal?"
+  },
+  {
+    "id": 4,
+    "question": "Selama satu bulan terakhir, seberapa sering Anda merasa mampu mengendalikan hal-hal yang menjengkelkan dalam hidup Anda?"
+  },
+  {
+    "id": 5,
+    "question": "Dalam satu bulan terakhir, seberapa sering Anda merasa tidak dapat menangani semua hal yang harus Anda lakukan?"
+  },
+  {
+    "id": 6,
+    "question": "Dalam satu bulan terakhir, seberapa sering Anda merasa bahwa hidup Anda berjalan sesuai dengan keinginan Anda?"
+  },
+  {
+    "id": 7,
+    "question": "Dalam satu bulan terakhir, seberapa sering Anda merasa percaya diri terhadap kemampuan Anda untuk menangani masalah-masalah?"
+  },
+  {
+    "id": 8,
+    "question": "Dalam satu bulan terakhir, seberapa sering Anda merasa gugup atau stres?"
+  },
+  {
+    "id": 9,
+    "question": "Dalam satu bulan terakhir, seberapa sering Anda merasa tidak mampu mengendalikan hal-hal penting dalam hidup?"
+  },
+  {
+    "id": 10,
+    "question": "Dalam satu bulan terakhir, seberapa sering Anda merasa kesal karena sesuatu yang terjadi secara tak terduga?"
+  }
+]
